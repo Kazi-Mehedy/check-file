@@ -1,0 +1,118 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+body{	
+	background:#EEE;
+    font-family:sans-serif;	
+}
+
+.container{
+	max-width:1000px;
+	background:#E4F9F5;
+	margin:0 auto;	
+	padding:5px;
+}
+
+h1, h2, h3, p{	
+	color:#11999e;	
+}
+
+
+#cvheader {
+  padding: 15px;
+}
+#cvheader {
+}
+.header {
+  overflow: hidden;
+}
+.cvimage {
+  float: left;
+  width: 150px;
+}
+.cvimage img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  margin-left: 15px;
+}
+.Nametitle {
+  float: left;
+  width: 350px;
+  margin-top: 20px;
+}
+.contractInfo {
+  float: right;
+  margin-top: 20px;
+}
+
+.div-clear{
+	
+	clear:both;
+	
+}
+
+hr{
+	border:solid black 3px;
+	width:100%;
+	margin:20px auto;
+	border-bottom:none;
+	
+}
+
+
+.contain {
+  overflow: hidden;
+}
+.left-handside {
+  float: left;
+  width: 400px;
+}
+.right-handside {
+  float: right;
+  color: black;
+  font-weight: 501;
+  line-height: 25px;
+  width:500px;
+}
+.right-handside p {
+  color: black;
+}
+
+
+#footer {
+  width: 900px;
+  background: black;
+  color: white;
+  margin: auto;
+  padding:25px;
+}
+.wrapper {
+  width: 500px;
+  margin: auto;
+}
+.facebook{
+	float:left;
+	margin-right:159px;
+	
+}
+
+.twitter {
+  float: left;
+  margin-right: 100px;
+}
+.youtube {
+  float: right;
+}
+.message {
+  margin-top: 45px;
+  /*! margin: auto; */
+  margin-left: 311px;
+  color: white;
+}
+.message p {
+  color: white;
+}
